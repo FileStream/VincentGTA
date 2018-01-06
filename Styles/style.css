@@ -70,3 +70,9 @@ ul {
 	display:table;
 }
 
+.sidebox {
+	width:400px;
+	height:auto;
+	float:right;
+	font-size:20px;
+}
