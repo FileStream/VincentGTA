@@ -8,7 +8,7 @@ body {
 
 @font-face {
     font-family: gtafont;
-    src: url(/pricedown_bl.ttf);
+    src: url(pricedown_bl.ttf);
 }
 
 .tholder { 
