@@ -1,0 +1,17 @@
+.tholder { 
+background-color:rgba(89, 92, 96, 0.3);
+padding:50px;
+margin:auto;
+width:500px;
+}
+
+.dealbox {
+margin:auto;	
+width: 500px;
+height:600px;
+}
+
+.dealinfo {
+	width:600px;
+	height:200px;
+}
