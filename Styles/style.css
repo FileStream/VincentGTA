@@ -1,0 +1,78 @@
+body {
+	overflow:auto;
+	font-family: 'Lato', sans-serif;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+	background-image:url('http://deskbg.com/s3/wpp/4/4977/grand-theft-auto-vinewood-desktop-background.jpg');
+}
+ 
+@font-face {
+    font-family: gtafont;
+    src: url(pricedown_bl.ttf);
+}
+
+.tholder { 
+background-color:rgba(89, 92, 96, 0.3);
+padding:50px;
+margin:auto;
+width:1200px;
+}
+
+.dealbox {
+margin:auto;	
+margin-left:0;
+margin-bottom:50px;
+width: 600px;
+border:solid black 2px;
+border-radius:20px;
+padding:40px;
+background-color:rgba(89, 92, 96, 0.6);
+}
+
+.dealinfo {
+	margin:auto;
+	width:400px;
+	font-size:50px;
+		font-family: 'gtafont';
+}
+
+.dealimg {
+	width:400px;
+	height:250px;
+	box-shadow: 5px 10px rgba(0, 0, 0, 0.20);
+}
+
+ul {
+	font-family: 'Lato', sans-serif;
+    list-style-type: none;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+	background: rgba(0, 0, 0, 0.70);
+    line-height: 36px;
+    width: 200px;
+    font-weight: 600;
+    color: #fff;
+    margin: 10px auto;
+    text-transform: uppercase;
+    padding: 10px;
+	font-size:20px;
+	margin-bottom:50px;
+}
+
+.credits {
+	background-color:white;
+	height:100px;
+	width:100%;
+	padding:20px;
+	display:table;
+}
+
+.sidebox {
+	width:400px;
+	height:auto;
+	float:right;
+	font-size:20px;
+}
