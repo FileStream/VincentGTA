@@ -3,7 +3,7 @@ body {
 	font-family: 'Lato', sans-serif;
 	background-repeat: no-repeat;
     background-attachment: fixed;
-	background-image:url('http://deskbg.com/s3/wpp/4/4977/grand-theft-auto-vinewood-desktop-background.jpg');
+	background-image:url(../background.jpg);
 	background-size:cover;
 	width:60%;
 	height:60%;
